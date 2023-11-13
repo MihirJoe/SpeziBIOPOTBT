@@ -15,7 +15,7 @@ struct NAMSApp: App {
     @UIApplicationDelegateAdaptor(NAMSAppDelegate.self)
     var appDelegate
     @AppStorage(StorageKeys.onboardingFlowComplete)
-    var completedOnboardingFlow = false
+    var completedOnboardingFlow = true // temporarily skipping onboarding
     
     var body: some Scene {
         WindowGroup {

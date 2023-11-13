@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		03E87D292B01D1950067E394 /* BIOPOTDeviceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03E87D282B01D1950067E394 /* BIOPOTDeviceManager.swift */; };
+		03E87D2B2B02B3B70067E394 /* BIOPOT.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03E87D2A2B02B3B70067E394 /* BIOPOT.swift */; };
 		2DC17128D81F6CF06F65FFD4 /* MuseConnectionListener.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DC17C07ED61540F306E7D23 /* MuseConnectionListener.swift */; };
 		2DC1713C311BAA65EE0E2748 /* MuseDeviceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DC17DCD9F44F68CF55EC3BE /* MuseDeviceManager.swift */; };
 		2DC1718A3F968CF02D7AF0EC /* PatientList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DC17A06799FC1470D4DDC0D /* PatientList.swift */; };
@@ -249,6 +251,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		03E87D282B01D1950067E394 /* BIOPOTDeviceManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BIOPOTDeviceManager.swift; sourceTree = "<group>"; };
+		03E87D2A2B02B3B70067E394 /* BIOPOT.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BIOPOT.swift; sourceTree = "<group>"; };
 		2DC17020D7BBBECE54A765C6 /* IXNMuseVersion+String.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "IXNMuseVersion+String.swift"; sourceTree = "<group>"; };
 		2DC17095E60D83D6205EFA78 /* HeadbandFit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeadbandFit.swift; sourceTree = "<group>"; };
 		2DC170F68232B993528F84FE /* PatientTask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PatientTask.swift; sourceTree = "<group>"; };
@@ -420,6 +424,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		03E87D272B01CACD0067E394 /* BIOPOT */ = {
+			isa = PBXGroup;
+			children = (
+				03E87D282B01D1950067E394 /* BIOPOTDeviceManager.swift */,
+			);
+			path = BIOPOT;
+			sourceTree = "<group>";
+		};
 		2FC9759D2978E30800BA99FE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -506,6 +518,7 @@
 			children = (
 				2DC173D02776C8AAB7386C29 /* BluetoothManager.swift */,
 				2FC975A72978F11A00BA99FE /* Home.swift */,
+				03E87D2A2B02B3B70067E394 /* BIOPOT.swift */,
 				653A2550283387FE005D4D48 /* NAMSApp.swift */,
 				2F5E32BC297E05EA003432F8 /* NAMSAppDelegate.swift */,
 				A9610AB82AB4868D00E46ADE /* NAMSStandard.swift */,
@@ -514,6 +527,7 @@
 				A94A42A82AE9EBC300A3F9E5 /* Account */,
 				2FE5DC2729EDD38D004B9AB4 /* Contacts */,
 				A926D7C52AB7A9AB000C4C2F /* EEG */,
+				03E87D272B01CACD0067E394 /* BIOPOT */,
 				A99522402AA61D82009272F4 /* Muse */,
 				2FE5DC2829EDD398004B9AB4 /* Onboarding */,
 				A989112B2A36686D00E66E3A /* Patients */,
@@ -1019,6 +1033,7 @@
 				2FE5DC4529EDD7F2004B9AB4 /* Binding+Negate.swift in Sources */,
 				A916ADD72AB62012006960DF /* ProcessInfo+PreviewSimulator.swift in Sources */,
 				A94A42B62AE9EBE300A3F9E5 /* AccountSetupHeader.swift in Sources */,
+				03E87D292B01D1950067E394 /* BIOPOTDeviceManager.swift in Sources */,
 				A926D82A2AB7B430000C4C2F /* EEGChart.swift in Sources */,
 				A9F2ECC62AEB27B10057C7DD /* MeasurementTile.swift in Sources */,
 				A9DF79DA2AE8986B00AB5983 /* SelectedPatientCard.swift in Sources */,
@@ -1040,6 +1055,7 @@
 				A926D8322AB7B430000C4C2F /* ConnectedDevice.swift in Sources */,
 				A9F2ECD02AEC5EF50057C7DD /* MeasurementTask.swift in Sources */,
 				A9BCB5862AE8347E00DA8588 /* CollectionReference+AsyncAwait.swift in Sources */,
+				03E87D2B2B02B3B70067E394 /* BIOPOT.swift in Sources */,
 				A926D8052AB7B41C000C4C2F /* EEGSeries+Muse.swift in Sources */,
 				2F4E23832989D51F0013F3D9 /* NAMSTestingSetup.swift in Sources */,
 				2F5E32BD297E05EA003432F8 /* NAMSAppDelegate.swift in Sources */,

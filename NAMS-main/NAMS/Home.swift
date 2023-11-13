@@ -43,6 +43,10 @@ struct HomeView: View {
                 .tabItem {
                     Label("CONTACTS_TAB_TITLE", systemImage: "person.fill")
                 }
+            BIOPOT()
+                .tabItem {
+                    Label("BIOPOT", systemImage: "brain.fill")
+                }
         }
             .environment(patientList)
             .viewStateAlert(state: $viewState)
