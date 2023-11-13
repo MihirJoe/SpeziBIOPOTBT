@@ -1,0 +1,32 @@
+#
+# This source file is part of the Neurodevelopment Assessment and Monitoring System (NAMS) project
+#
+# SPDX-FileCopyrightText: 2023 Stanford University
+#
+# SPDX-License-Identifier: MIT
+#
+
+name: Beta Deployment
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  buildandtest:
+    name: Build and Test
+    uses: ./.github/workflows/build-and-test.yml
+    secrets: inherit
+  iosapptestflightdeployment:
+    name: iOS App TestFlight Deployment
+    needs: buildandtest
+    uses: StanfordBDHG/.github/.github/workflows/xcodebuild-or-fastlane.yml@v2
+    secrets: inherit
+    with:
+      artifactname: NAMS.xcresult
+      runsonlabels: '["macOS-13"]'
+      fastlanelane: beta
+      setupsigning: true
+      checkout_submodules: true

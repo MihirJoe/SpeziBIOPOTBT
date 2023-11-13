@@ -1,0 +1,1278 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    " [%@](https://choosemuse.my.site.com/s/article/Bluetooth-Troubleshooting?language=%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : " [%1$@](https://choosemuse.my.site.com/s/article/Bluetooth-Troubleshooting?language=%2$@)"
+          }
+        }
+      }
+    },
+    " [%@](https://choosemuse.my.site.com/s/article/Muse-Battery-Troubleshooting?language=%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : " [%1$@](https://choosemuse.my.site.com/s/article/Muse-Battery-Troubleshooting?language=%2$@)"
+          }
+        }
+      }
+    },
+    " [%@](https://choosemuse.my.site.com/s/article/Sensor-Quality-Troubleshooting?language=%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : " [%1$@](https://choosemuse.my.site.com/s/article/Sensor-Quality-Troubleshooting?language=%2$@)"
+          }
+        }
+      }
+    },
+    "%@ " : {
+      "comment" : "Image prefix placeholder",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ "
+          }
+        }
+      }
+    },
+    "%@ min" : {
+      "comment" : "Expected task completion in minutes.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ min"
+          }
+        }
+      }
+    },
+    "%@, Patient Details" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@, Patient Details"
+          }
+        }
+      }
+    },
+    "About" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About"
+          }
+        }
+      }
+    },
+    "Add Notes" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Notes"
+          }
+        }
+      }
+    },
+    "Add Patient" : {
+      "comment" : "Add Patient Title",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Patient"
+          }
+        }
+      }
+    },
+    "All" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All"
+          }
+        }
+      }
+    },
+    "Alpha" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alpha"
+          }
+        }
+      }
+    },
+    "Are you sure you want to delete this patient?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to delete this patient?"
+          }
+        }
+      }
+    },
+    "Are you sure you want to discard this new patient?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to discard this new patient?"
+          }
+        }
+      }
+    },
+    "ATTENTION_REQUIRED" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attention Required"
+          }
+        }
+      }
+    },
+    "BATTERY" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Battery"
+          }
+        }
+      }
+    },
+    "Beta" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beta"
+          }
+        }
+      }
+    },
+    "BLUETOOTH_OFF" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bluetooth Off"
+          }
+        }
+      }
+    },
+    "BLUETOOTH_OFF_HINT" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bluetooth is turned off. Please turn on Bluetooth in Control Center or Settings in order to use your Muse Headband."
+          }
+        }
+      }
+    },
+    "BLUETOOTH_PROHIBITED" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bluetooth Prohibited"
+          }
+        }
+      }
+    },
+    "BLUETOOTH_PROHIBITED_HINT" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bluetooth is required to make connections to your Muse Headband. Please allow Bluetooth connections in your Privacy settings."
+          }
+        }
+      }
+    },
+    "BLUETOOTH_UNKNOWN" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We have troubles with the Bluetooth communication. Please try again."
+          }
+        }
+      }
+    },
+    "BLUETOOTH_UNSUPPORTED" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bluetooth is unsupported on this device!"
+          }
+        }
+      }
+    },
+    "Brain activity was collected for this patient." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brain activity was collected for this patient."
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "Channel" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Channel"
+          }
+        }
+      }
+    },
+    "Close" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        }
+      }
+    },
+    "Completed" : {
+      "comment" : "Completed Tile. Subtitle",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Completed"
+          }
+        }
+      }
+    },
+    "CONNECTED" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Connected"
+          }
+        }
+      }
+    },
+    "CONNECTING" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Connecting"
+          }
+        }
+      }
+    },
+    "CONTACTS_NAVIGATION_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contacts"
+          }
+        }
+      }
+    },
+    "CONTACTS_TAB_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contacts"
+          }
+        }
+      }
+    },
+    "Continue" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        }
+      }
+    },
+    "Delete" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        }
+      }
+    },
+    "Delete Patient" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Patient"
+          }
+        }
+      }
+    },
+    "DEVICE_DETAILS" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Device Details"
+          }
+        }
+      }
+    },
+    "Discard Changes" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discard Changes"
+          }
+        }
+      }
+    },
+    "DISCONNECT" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disconnect"
+          }
+        }
+      }
+    },
+    "DISCONNECTED" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disconnected"
+          }
+        }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        }
+      }
+    },
+    "EEG Recording" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EEG Recording"
+          }
+        }
+      }
+    },
+    "enter first name" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "enter first name"
+          }
+        }
+      }
+    },
+    "enter last name" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "enter last name"
+          }
+        }
+      }
+    },
+    "Failed to associate response with original questionnaire!" : {
+      "comment" : "Failure Reason",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to associate response with original questionnaire!"
+          }
+        }
+      }
+    },
+    "Failed to complete Questionnaire" : {
+      "comment" : "Error Description",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to complete Questionnaire"
+          }
+        }
+      }
+    },
+    "FINISHED_SETUP_TEXT" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You completed all the onboarding steps!\n You can now use the app to manage patients, conduct questionnaires and EEG recordings."
+          }
+        }
+      }
+    },
+    "FINISHED_SETUP_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ready To Go"
+          }
+        }
+      }
+    },
+    "Firmware update required." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Firmware update required."
+          }
+        }
+      }
+    },
+    "FIRMWARE_VERSION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Firmware Version"
+          }
+        }
+      }
+    },
+    "First" : {
+      "comment" : "First Name Field Description",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "First"
+          }
+        }
+      }
+    },
+    "FREQUENCY" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frequency"
+          }
+        }
+      }
+    },
+    "Gamma" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gamma"
+          }
+        }
+      }
+    },
+    "GOOD_FIT" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "good"
+          }
+        }
+      }
+    },
+    "HEADBAND" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Headband"
+          }
+        }
+      }
+    },
+    "HEADBAND_FIT" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Headband Fit"
+          }
+        }
+      }
+    },
+    "Hello" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello"
+          }
+        }
+      }
+    },
+    "INTERVENTION_MUSE_FIRMWARE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The headband's firmware is out of date. Please use the Muse app to upgrade to the latest firmware version."
+          }
+        }
+      }
+    },
+    "INTERVENTION_MUSE_LICENSE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The headband's license is invalid. Please refer to the Muse app for more information."
+          }
+        }
+      }
+    },
+    "INTERVENTION_REQUIRED" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Requires Intervention"
+          }
+        }
+      }
+    },
+    "INTERVENTION_REQUIRED_PREFIX %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intervention Required: %@"
+          }
+        }
+      }
+    },
+    "INTERVENTION_REQUIRED_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intervention Required"
+          }
+        }
+      }
+    },
+    "Keep Editing" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep Editing"
+          }
+        }
+      }
+    },
+    "Last" : {
+      "comment" : "Last Name Field Description",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last"
+          }
+        }
+      }
+    },
+    "LELAND_STANFORD_BIO" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Amasa Leland Stanford (March 9, 1824 – June 21, 1893) was an American industrialist and politician. [...] He and his wife Jane were also the founders of Stanford University, which they named after their late son.\n[https://en.wikipedia.org/wiki/Leland_Stanford]"
+          }
+        }
+      }
+    },
+    "M-CHAT R/F" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "M-CHAT R/F"
+          }
+        }
+      }
+    },
+    "Mark completed" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mark completed"
+          }
+        }
+      }
+    },
+    "Measurements" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Measurements"
+          }
+        }
+      }
+    },
+    "MEDIOCRE_FIT" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mediocre"
+          }
+        }
+      }
+    },
+    "Micro-Volt" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Micro-Volt"
+          }
+        }
+      }
+    },
+    "MOCK_UPLOAD_TAB_TITLE" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mock Web Service"
+          }
+        }
+      }
+    },
+    "Name" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
+          }
+        }
+      }
+    },
+    "NEARBY_DEVICES" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nearby Devices"
+          }
+        }
+      }
+    },
+    "No" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No"
+          }
+        }
+      }
+    },
+    "No Device connected!" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Device connected!"
+          }
+        }
+      }
+    },
+    "No EEG Headband connected ..." : {
+      "comment" : "EEG Tile no headband warning",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No EEG Headband connected. You must connect to a nearby EEG device first inorder to perform an EEG."
+          }
+        }
+      }
+    },
+    "No Patient selected" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Patient selected"
+          }
+        }
+      }
+    },
+    "No Patients" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Patients"
+          }
+        }
+      }
+    },
+    "Notes" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notes"
+          }
+        }
+      }
+    },
+    "NOTIFICATION_PERMISSIONS_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get notified through notifications when a new event of a task is scheduled."
+          }
+        }
+      }
+    },
+    "NOTIFICATION_PERMISSIONS_SUBTITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications for scheduled Tasks."
+          }
+        }
+      }
+    },
+    "NOTIFICATION_PERMISSIONS_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications"
+          }
+        }
+      }
+    },
+    "Patient Details" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Patient Details"
+          }
+        }
+      }
+    },
+    "Patient Id" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Patient Id"
+          }
+        }
+      }
+    },
+    "Patient Overview" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Patient Overview"
+          }
+        }
+      }
+    },
+    "Patients" : {
+      "comment" : "Patient List Title",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Patients"
+          }
+        }
+      }
+    },
+    "Patients will appear here,\nonce they are added." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Patients will appear here,\nonce they are added."
+          }
+        }
+      }
+    },
+    "Please connect to a nearby EEG headband first." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please connect to a nearby EEG headband first."
+          }
+        }
+      }
+    },
+    "POOR_FIT" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "poor"
+          }
+        }
+      }
+    },
+    "PROBLEMS_BATTERY_HINT" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Issues with your battery?"
+          }
+        }
+      }
+    },
+    "PROBLEMS_CONNECTING_HINT" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do you have problems connecting?"
+          }
+        }
+      }
+    },
+    "PROBLEMS_HEADBAND_FIT_HINT" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Issues maintaining a good fit?"
+          }
+        }
+      }
+    },
+    "Questionnaire" : {
+      "comment" : "Tile Type",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Questionnaire"
+          }
+        }
+      }
+    },
+    "Recording" : {
+      "comment" : "Tile Type",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recording"
+          }
+        }
+      }
+    },
+    "Reset" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset"
+          }
+        }
+      }
+    },
+    "Schedule" : {
+      "comment" : "Schedule Title",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schedule"
+          }
+        }
+      }
+    },
+    "Screening" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Screening"
+          }
+        }
+      }
+    },
+    "Search for a patient" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search for a patient"
+          }
+        }
+      }
+    },
+    "Seconds" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seconds"
+          }
+        }
+      }
+    },
+    "Select a patient to continue." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select a patient to continue."
+          }
+        }
+      }
+    },
+    "Select Patient" : {
+      "comment" : "Principal Select Patient Button placeholder",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select Patient"
+          }
+        }
+      }
+    },
+    "Selected" : {
+      "comment" : "Selected Patient",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selected"
+          }
+        }
+      }
+    },
+    "Selected Patient" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selected Patient"
+          }
+        }
+      }
+    },
+    "Selected Patient: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selected Patient: %@"
+          }
+        }
+      }
+    },
+    "SERIAL_NUMBER" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Serial Number"
+          }
+        }
+      }
+    },
+    "Start" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start"
+          }
+        }
+      }
+    },
+    "Start %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start %@"
+          }
+        }
+      }
+    },
+    "Start a EEG Recording for the current patient ..." : {
+      "comment" : "EEG Tile description",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perform a EEG recording for the current patient. Capture and analyze the patient's brain activity."
+          }
+        }
+      }
+    },
+    "The Modified Checklist for Autism in Toddlers, Revised with Follow-Up." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Modified Checklist for Autism in Toddlers, Revised with Follow-Up."
+          }
+        }
+      }
+    },
+    "There was no selected patient found!" : {
+      "comment" : "Failure Reason",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There was no selected patient found!"
+          }
+        }
+      }
+    },
+    "Theta" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Theta"
+          }
+        }
+      }
+    },
+    "TROUBLESHOOTING" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Troubleshooting"
+          }
+        }
+      }
+    },
+    "TURN_ON_HEADBAND_HINT" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make sure your headband is turned on and nearby."
+          }
+        }
+      }
+    },
+    "Unexpected format of the questionnaire response!" : {
+      "comment" : "Failure Reason",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unexpected format of the questionnaire response!"
+          }
+        }
+      }
+    },
+    "WEARING" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wearing"
+          }
+        }
+      }
+    },
+    "WELCOME_AREA1_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The NAMS App helps you to manage multiple patients at once."
+          }
+        }
+      }
+    },
+    "WELCOME_AREA1_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Patient Management"
+          }
+        }
+      }
+    },
+    "WELCOME_AREA2_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NAMS provides you with several questionnaires to assess conditions of your patients."
+          }
+        }
+      }
+    },
+    "WELCOME_AREA2_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Questionnaires"
+          }
+        }
+      }
+    },
+    "WELCOME_AREA3_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NAMS offers integration with consumer-grade EEG headbands for easy and scalable EEG measurements."
+          }
+        }
+      }
+    },
+    "WELCOME_AREA3_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EEG Recordings"
+          }
+        }
+      }
+    },
+    "WELCOME_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neurodevelopment Assessment and Monitoring System (NAMS)"
+          }
+        }
+      }
+    },
+    "Yes" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yes"
+          }
+        }
+      }
+    },
+    "You are already signed in." : {
+      "comment" : "Account Setup Header Description",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You are successfully signed in with the following account:"
+          }
+        }
+      }
+    },
+    "You may login below." : {
+      "comment" : "Account Setup Header Description",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please sign up to create a new account or log into an existing one."
+          }
+        }
+      }
+    },
+    "Your Account" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Account"
+          }
+        }
+      }
+    },
+    "Your Account Description" : {
+      "comment" : "What is an account used for in this app?",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Neurodevelopment Assessment and Monitoring System (NAMS) uses your account to connect and manage patient data."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
