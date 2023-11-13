@@ -164,6 +164,15 @@
         }
       }
     },
+    "BIOPOT" : {
+
+    },
+    "Biopot3 connected!" : {
+
+    },
+    "Biopot3 not connected." : {
+
+    },
     "BLUETOOTH_OFF" : {
       "localizations" : {
         "en" : {
@@ -275,6 +284,9 @@
         }
       }
     },
+    "Connect" : {
+
+    },
     "CONNECTED" : {
       "localizations" : {
         "en" : {
@@ -324,6 +336,9 @@
           }
         }
       }
+    },
+    "Data: %@" : {
+
     },
     "Delete" : {
       "localizations" : {
